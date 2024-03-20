@@ -1,3 +1,4 @@
+pip==24.0
 streamlit==1.31.1
 Pillow==8.1.
 tensorflow-cpu==1.15.0
