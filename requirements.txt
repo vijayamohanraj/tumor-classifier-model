@@ -1,5 +1,5 @@
-streamlit
-Pillow==8.1.1
-tensorflow-cpu
-numpy
-pytest-shutil
+streamlit==1.31.1
+Pillow==8.1.
+tensorflow-cpu==1.15.0
+numpy==1.26.4
+pytest-shutil==8.1.1
